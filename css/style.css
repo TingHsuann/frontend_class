@@ -1,0 +1,122 @@
+.name{
+    padding-top: 40px;
+    padding-bottom: 24px;
+    width: 1200px;
+    height: 190px;
+    margin: 0 auto;
+    text-align: left;
+    border-bottom: #000000 2px solid;
+}
+.name h1{
+    width: 274px;
+    height: 190px;
+    font: normal normal normal 80px/95px SF Pro Text;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.selfimg{
+    padding-top: 48px;
+    padding-bottom: 54px;
+    width: 1200px;
+    height: 324px;
+    margin: 0 auto;
+}
+.selfimg img{
+    width: 324px;
+    height: 324px;
+    opacity: 1;
+    text-align: left;
+}
+.box{
+    padding-bottom: 8px;
+    width: 1200px;
+    height: 48px;
+    margin: 0 auto;
+    border-bottom: #000000 1px solid;
+    margin-bottom: 16px;
+}
+.box h2{
+    text-align: left;
+    font: normal normal normal 32px/48px PingFang TC Text;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    display: inline-block;
+    padding-right: 16px;
+}
+.box h3{
+    text-align: left;
+    font: normal normal normal 24px/36px PingFang TC Text;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #A00404;
+    opacity: 1;
+    display: inline-block;
+}
+.profile {
+    width: 1200px;
+    height: 310px;
+    margin: 0 auto;
+}
+.profile h4 {
+    font: normal normal 300 24px/36px PingFang TC;
+}
+.profile h5 {
+    padding-top: 24px;
+    font: normal normal 300 24px/36px PingFang TC;
+}
+.education {
+    width: 1200px;
+    height: 168px;
+    margin: 0 auto;
+}
+.education h4 {
+    font: normal normal 300 24px/36px PingFang TC;
+}
+.education h5 {
+    padding-top: 16px;
+    font: normal normal 300 24px/36px PingFang TC;
+}
+.skill{
+    height: 460px;
+    background: #415165;
+    margin-bottom: 70px;
+}
+.box2{
+    padding-top:24px;
+    padding-bottom: 8px;
+    width: 1200px;
+    height: 48px;
+    margin: 0 auto;
+    border-bottom: #FFFFFF 1px solid;
+    margin-bottom: 16px;
+    text-align: center;
+}
+.box2 h2{
+    font: normal normal normal 32px/48px PingFang TC Text;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    display: inline-block;
+    padding-right: 16px;
+}
+.box2 h3{
+    font: normal normal normal 24px/36px PingFang TC Text;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    display: inline-block;
+}
+.content{
+    width: 224px;
+    font: normal normal 300 24px/36px SF Pro Text;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding-left: 24px;
+    border-left: #96A9C4 1px solid;
+}
