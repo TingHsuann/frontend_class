@@ -80,6 +80,7 @@
     font: normal normal 300 24px/36px PingFang TC;
 }
 .skill{
+    width: 1200px;
     height: 460px;
     background: #415165;
     margin-bottom: 70px;
