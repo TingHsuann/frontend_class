@@ -96,7 +96,7 @@
     text-align: center;
 }
 .box2 h2{
-    font: normal normal normal 32px/48px PingFang TC Text;
+    font: normal normal normal 32px/48px PingFang TC ;
     font-weight:bold;
     letter-spacing: 0px;
     color: #FFFFFF;
@@ -105,7 +105,7 @@
     padding-right: 16px;
 }
 .box2 h3{
-    font: normal normal normal 24px/36px PingFang TC Text;
+    font: normal normal normal 24px/36px PingFang TC ;
     font-weight:bold;
     letter-spacing: 0px;
     color: #FFFFFF;
@@ -114,10 +114,63 @@
 }
 .content{
     width: 224px;
-    font: normal normal 300 24px/36px SF Pro Text;
+    font: normal normal 300 24px/36px SF Pro ;
     color: #FFFFFF;
     margin: 0 auto;
     margin-top: 40px;
     padding-left: 24px;
     border-left: #96A9C4 1px solid;
+}
+.workexp {
+    width: 642px;
+    height: 654px;
+    margin-left: 410px ;
+    padding-left: 24px;
+    border-left: #96A9C4 1px solid;
+}
+.workexp h6{
+    font: normal normal normal 24px/36px PingFang TC ;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.workexp h4{
+    font: normal normal normal 24px/36px PingFang TC ;
+    font-weight:bold;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-top: 24px;
+}
+.workexp h5{
+    text-align: left;
+    font: normal normal 300 20px/30px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.contact{
+    height: 400px;
+    margin: 0 auto;
+    background: #415165;
+    margin-top: 80px;
+}
+.method{
+    font: normal normal 300 24px/36px SF Pro Text ;
+    color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 24px;
+    text-align: center;
+}
+.method p{
+    padding-bottom: 16px;
+}
+.social{
+    width: 192px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
