@@ -124,7 +124,8 @@
 .workexp {
     width: 642px;
     height: 654px;
-    margin-left: 410px ;
+    margin: 0px 165px auto ;
+    /* margin-left: 165px ; */
     padding-left: 24px;
     border-left: #96A9C4 1px solid;
 }
